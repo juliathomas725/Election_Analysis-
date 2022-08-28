@@ -25,6 +25,7 @@ The candidate results were:
   - Candidate 1 received 23.0% of the votes with 85,213 votes
   - Candidate 2 received 73.8% of the votes with 272,892 votes
   - Candidate 3 received 3.1% of the votes with 11,606 votes 
+
 The winner of the election was:
   Candidate 2, Diana DeGette, who received 73.8% of the votes with 272,892 votes
   
